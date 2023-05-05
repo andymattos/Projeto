@@ -1,0 +1,119 @@
+.header {
+  padding: 5px;
+  background: grey;
+  color: white;
+  font-size: 6px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.andy {
+    border: 2px solid red;
+    border-radius: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+h2 {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    text-align: center;
+}
+
+.text1 {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+  text-align: center;
+}
+
+h3 {
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+}
+
+.text2 {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+}
+
+h4 {
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+}
+
+.text3 {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+}
+
+h5 {
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+}
+
+.text4 {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+}
+
+h6 {
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: larger;
+  text-align: center;
+}
+
+.git {
+  border: 1px solid black;
+  border-radius: 50px;
+}
+
+.linked {
+  border: 1px solid black;
+  border-radius: 50px;
+}
+
+.yt {
+  border: 1px solid black;
+  border-radius: 50px;
+}
+
+.projeto1 {
+  border: 2px solid black;
+  border-radius: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sonic {
+  border: 2px solid black;
+  border-radius: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.text5 {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+}
+
+.text6 {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+}
+
+.inline{
+  display: inline-block;
+}
